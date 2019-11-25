@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/gkannan66235/Space%20Game%20-Web/_apis/build/status/spacegame-web-CI?branchName=master)](https://dev.azure.com/gkannan66235/Space%20Game%20-Web/_build/latest?definitionId=20&branchName=master)
+
 
 # Contributing
 
